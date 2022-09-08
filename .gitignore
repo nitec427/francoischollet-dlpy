@@ -1,0 +1,10 @@
+train
+validation
+test
+cats_dogs
+*.zip
+*.csv
+segmentation
+val*
+*.keras
+aclImdb
